@@ -1,1 +1,1 @@
-# This is a conflict features.
+# This is a conflicting file.
